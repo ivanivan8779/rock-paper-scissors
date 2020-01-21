@@ -1,0 +1,1 @@
+This is my first time using html, css and js in one project, I had to watch a tutorial because the instructions in the odin project were too cofused. I learned a lot with this project, I can't wait to make the next one.
